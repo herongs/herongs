@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Heron Ghellere Slovinski</h1>
 <h3 align="center">I'm a beginner programming student passionate about learning about technology and all that is possible through it.</h3>
 
-- 🌱 I’m currently learning **C, JavaScript, HTML5, CSS3, Python.**
+- ⭕️ I’m currently learning **C, JavaScript, HTML5, CSS3, Python.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/heron-ghellere-slovinski/](https://www.linkedin.com/in/heron-ghellere-slovinski/)
+- ⭕️ More about me [https://www.linkedin.com/in/heron-ghellere-slovinski/](https://www.linkedin.com/in/heron-ghellere-slovinski/)
 
-- 📫 How to reach me **heronslovinski@hotmail.com**
+- ⭕️ How to reach me **heronslovinski@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
