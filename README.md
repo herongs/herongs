@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Heron Ghellere Slovinski</h1>
-<h3 align="center">I'm a beginner programming student passionate about learning about technology and all that is possible through it.</h3>
+<h3 align="center">I'm a programming passionate about learning about technology and all that is possible through it.</h3>
 
 - ⭕️ I’m Full Stack Developer **PHP, JavaScript, POSTGRESQL.**
 
